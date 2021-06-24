@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1624557923 source:e:\desktop\c\.khoa_lap_trinh_c_az\bai21_count_num_and_reverse(hex)\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+
