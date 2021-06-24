@@ -1,8 +1,15 @@
+/*
+	Written by:  		iosha
+	Date Written:		25/06/2021
+	Description:		đếm và đảo ngược 1 số dạng Hex
+                        code dùng cho số <= 32 bit, muốn dùng cho số lớn hơ thì phải thay đổi 1 chút
+*/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <stdint.h>
 
-uint32_t u32Number = 0x00234;
+uint16_t u32Number = 0x63021;
 
 int main()
 {
