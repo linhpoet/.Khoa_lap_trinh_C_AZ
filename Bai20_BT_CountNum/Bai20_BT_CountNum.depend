@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1624386444 source:e:\desktop\c\.khoa_c_a_z\bai20_bt_countnum\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1622484755 source:e:\desktop\c\.khoa_c_a_z\bt_struct_pointer\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+

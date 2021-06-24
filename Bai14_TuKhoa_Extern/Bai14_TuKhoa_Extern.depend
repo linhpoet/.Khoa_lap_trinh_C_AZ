@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1622569912 source:e:\desktop\c\.khoa_c_a_z\bai14_tukhoa_extern\test_extern.c
+	"test_extern.h"
+
+1622569385 e:\desktop\c\.khoa_c_a_z\bai14_tukhoa_extern\test_extern.h
+
+1622569912 source:e:\desktop\c\.khoa_c_a_z\bai14_tukhoa_extern\main.c
+	<stdio.h>
+	<stdlib.h>
+

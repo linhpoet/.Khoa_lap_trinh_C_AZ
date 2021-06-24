@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1620239321 source:e:\desktop\c\.khoa_c_a_z\dec_to_bin_convert\main.c
+	<stdio.h>
+	<stdint.h>
+
