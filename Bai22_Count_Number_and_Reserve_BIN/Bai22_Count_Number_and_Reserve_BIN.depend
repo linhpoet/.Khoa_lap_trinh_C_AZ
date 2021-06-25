@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1624641234 source:e:\desktop\c\.khoa_lap_trinh_c_az\bai22_count_number_and_reserve_bin\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+

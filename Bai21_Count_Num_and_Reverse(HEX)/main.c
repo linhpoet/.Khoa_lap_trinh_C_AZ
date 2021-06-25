@@ -38,7 +38,7 @@ int ReverseNumberHex(uint32_t *pu32Number)
 {
     uint8_t u8LengthHexNum = CountNumberHex(pu32Number);
     uint32_t u32TempNum = 0;
-    uint8_t u32TempCount = 0;
+    uint8_t u8TempCount = 0;
 
     while(u32TempCount < u8LengthHexNum)
     {
