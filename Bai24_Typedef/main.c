@@ -9,6 +9,7 @@ int main()
     return 0;
 }
 
+/*void ReadFlash(unsigned int u32Length)- giong voi cach viet duoi*/
 void ReadFlash(LengthofFlash u32Length)
 {
 
