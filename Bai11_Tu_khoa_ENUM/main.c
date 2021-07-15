@@ -5,6 +5,16 @@
 #include <stdint.h>
 
 
+enum test
+{
+    a,  
+    b,
+    c=100,
+    d
+};
+/*
+    a=0, b=1, c=100, d=101
+*/
 
 typedef enum Flash
 {
@@ -40,6 +50,7 @@ int function1()
 
 int main()
 {
+    printf("%d", a);
     printf("Hello world!\n");
     return 0;
 }
