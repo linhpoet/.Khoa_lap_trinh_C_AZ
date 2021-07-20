@@ -33,6 +33,10 @@ int Count_Number(uint32_t *pNum)
     printf("in ra so dao nguoc:");
     for(int count=0; count<u16Count; count++)
         printf("%d", u8Num_temp[count]);
+    
+    printf("in ra so do:");
+    for(int count=u16Count-1; count>=0; count--)
+        printf("%d", u8Num_temp[count]);
 
     /**/
     for(int count=0; count<u16Count; count++)
