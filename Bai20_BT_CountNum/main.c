@@ -9,6 +9,9 @@ int main()
     printf("nhap 1 so nguen > 0:");
     scanf("%d", &u32Num);
     Count_Number(&u32Num);
+    
+    getchar();
+    //while(getchar() != '\n');
 }
 
 int Count_Number(uint32_t *pNum)
