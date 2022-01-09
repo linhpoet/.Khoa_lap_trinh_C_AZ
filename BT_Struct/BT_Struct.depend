@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1635304698 source:e:\desktop\c\.khoa_lap_trinh_c_az\bt_struct\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+

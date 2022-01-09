@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1635260845 source:e:\desktop\c\.khoa_lap_trinh_c_az\de_thi_linux_embedded_phu\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
