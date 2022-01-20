@@ -1,6 +1,9 @@
 # depslib dependency file v1.0
-1640613438 source:e:\desktop\c\.khoa_lap_trinh_c_az\test4\main.c
+1642326625 source:e:\desktop\c\.khoa_lap_trinh_c_az\test4\main.c
 	<stdio.h>
+	<string.h>
+	<math.h>
+	<stdlib.h>
 	<stdint.h>
 
 1640029863 source:e:\desktop\c\.khoa_lap_trinh_c_az\test4\test1.c

@@ -1,4 +1,7 @@
 #include <stdio.h>
+#include <string.h>
+#include <math.h>
+#include <stdlib.h>
 #include <stdint.h>
 //#include "test1.h"
 
@@ -17,15 +20,40 @@ void abc(int y)
 }
 
 
-
-
-int main()
+typedef struct
 {
-    int x = 1;
-    int const *pdata =&x;
-    x=2;
-    printf("%d", x);
-    printf("ok");
+	uint32_t MODER;
+	uint32_t OTYPER;
+	uint32_t OSPEEDR;
+	uint32_t PUPDR;
+	uint32_t IDR;
+	uint32_t ODR;
+	uint32_t BSRR;
+	uint32_t LCKR;
+	uint32_t AFRL;
+	uint32_t AFRH;
+}GPIO_Config_t;
+
+typedef struct
+{
+	uint32_t SR;
+	uint32_t DR;
+	uint32_t BRR;
+	uint32_t CR1;
+	uint32_t CR2;
+	uint32_t CR3;
+	uint32_t GTPR;
+}USART_Config_t;
+
+
+int test_array(int *nums, int size)
+{
+    return nums[1];
+}
+
+int main() {
+    int nums[3] = {4,1,2};
+    printf("%d", test_array(nums, 3));
 }
 
 /*
