@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "weak.h": "c",
+        "stdio.h": "c"
+    }
+}

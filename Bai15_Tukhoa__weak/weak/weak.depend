@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1643275137 source:e:\desktop\c\.khoa_lap_trinh_c_az\bai15_tukhoa__weak\weak\weak.c
+	"weak.h"
+	<stdio.h>
+
+1643274240 e:\desktop\c\.khoa_lap_trinh_c_az\bai15_tukhoa__weak\weak\weak.h
+	<stdio.h>
+
+1643275098 source:e:\desktop\c\.khoa_lap_trinh_c_az\bai15_tukhoa__weak\weak\main.c
+	<stdio.h>
+	<stdlib.h>
+	"weak.h"
+

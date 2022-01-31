@@ -46,14 +46,30 @@ typedef struct
 }USART_Config_t;
 
 
-int test_array(int *nums, int size)
+//int test_array(int nums, int size)
+//{
+//   return nums[1];                 //truyen vao dia chi nhung van dung duoc
+//}
+/*
+                            4 4 4 4 4 4 4
+                            4 3 3 3 3 3 4
+                            4 3 2 2 2 3 4
+                            4 3 2 1 2 3 4
+                            4 3 2 2 2 3 4
+                            4 3 3 3 3 3 4
+                            4 4 4 4 4 4 4
+                            */
+void function_address();    //mới khai báo, chưa có địa chỉ
+void function_address()     //đã tồn tại và có địa chỉ
 {
-    return nums[1];
+
 }
 
-int main() {
-    int nums[3] = {4,1,2};
-    printf("%d", test_array(nums, 3));
+int main()
+{
+    printf("%d", &function_address);
+
+    return 0;
 }
 
 /*

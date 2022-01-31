@@ -5,10 +5,10 @@
 int u32ExternChecking;
 
 /*phạm vi sử dụng chỉ trong thuộc file main.c*/
-static int u32ExternStaticChecking;
+static int u32StaticChecking;
 
 int main()
 {
     extern_check();
-    printf("u32checking  = %d", u32ExternChecking);
+    printf("u32ExternChecking  = %d", u32ExternChecking);
 }

@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1643220483 source:e:\desktop\c\.khoa_lap_trinh_c_az\bt_tach_chu\tach_chu\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+
