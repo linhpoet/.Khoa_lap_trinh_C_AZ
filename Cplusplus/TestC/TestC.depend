@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1690520719 source:c:\users\lli5hc\desktop\linh\temp\cplusplus\testc\lib.c
+	"lib.h"
+
+1690520571 c:\users\lli5hc\desktop\linh\temp\cplusplus\testc\lib.h
+	<stdio.h>
+
