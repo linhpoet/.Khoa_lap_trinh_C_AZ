@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1663507853 source:e:\desktop\c\.khoa_lap_trinh_c_az\cpp\inheritance\class1.cpp
+	"Class1.h"
+
+1664075458 e:\desktop\c\.khoa_lap_trinh_c_az\cpp\inheritance\class1.h
+	<iostream>
+
+1664075446 source:e:\desktop\c\.khoa_lap_trinh_c_az\cpp\inheritance\main.cpp
+	<iostream>
+	<string>
+	"Class1.h"
+

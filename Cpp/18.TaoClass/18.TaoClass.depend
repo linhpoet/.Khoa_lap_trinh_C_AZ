@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1610564669 source:c:\users\linh\desktop\c++\18.taoclass\src\xoithit.cpp
+	"XoiThit.h"
+
+1610564816 c:\users\linh\desktop\c++\18.taoclass\include\xoithit.h
+	<iostream>
+
+1610564742 source:c:\users\linh\desktop\c++\18.taoclass\main.cpp
+	<iostream>
+	"XoiThit.h"
+

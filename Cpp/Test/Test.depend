@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1610564242 source:c:\users\linh\desktop\c++\test\main.cpp
+	<iostream>
+	<string>
+	<iostream>
+	<string>
+
+1612897186 source:e:\desktop\c++\test\main.cpp
+	<stdio.h>
+
+1690824152 source:e:\hoc\c++\test\main.cpp
+	<cmath>
+	<cstdio>
+	<vector>
+	<iostream>
+	<algorithm>
+

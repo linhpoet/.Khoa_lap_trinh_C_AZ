@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <stdint.h>
 
-/*tinh size theo size cua kieu du lieu lon nhat: 2 byte*/
+/*tinh size theo size cua kieu du lieu lon nhat: 4 byte*/
 struct Packet
 {
     uint32_t CRC        :2;

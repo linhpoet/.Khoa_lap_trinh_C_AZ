@@ -6,8 +6,6 @@ static void function_static(void);
 
 /*phạm vi biến này chỉ được sử dụng trong file main.c*/
 static int u32GlobalStatic = 10;
-/*có thể sử dụng trong file .c khác thuộc project, nhưng phải khai báo extern int u32Global ở file đó */
-int u32Global = 0;
 
 int main()
 {
@@ -23,9 +21,9 @@ static void function_static(void)
 {
     /*pham vi biến này chỉ dược sử dụng trong function này*/
     /*ra khỏi function sẽ không sử dụng được biến này, nhưng cũng không bị mất đi*/
-    /*giá trị KHỞI TẠO cho biến static phải là hằng số*/
+    /*biến static phải KHỞI TẠO cho biến static phải là hằng số hoặc nhận gtri 0 khi khai báo*/
     /*có thể gọi cả function để thay đổi giá trị*/
-    static unsigned int u32Static = 1;
+    static unsigned int u32Static;
     //32Static = 1; không đúng
     u32Static ++;
     printf("u32Static = %d\n",u32Static);

@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1664527228 source:e:\desktop\c\.khoa_lap_trinh_c_az\inheritance1\src\concai.cpp
+	"ConCai.h"
+
+1664520190 e:\desktop\c\.khoa_lap_trinh_c_az\inheritance1\include\concai.h
+	"ChaMe.h"
+
+1664527202 source:e:\desktop\c\.khoa_lap_trinh_c_az\inheritance1\main.cpp
+	<iostream>
+	"ChaMe.h"
+	"ConCai.h"
+
+1664505266 e:\desktop\c\.khoa_lap_trinh_c_az\inheritance1\include\chame.h
+	<iostream>
+
+1664505241 source:e:\desktop\c\.khoa_lap_trinh_c_az\inheritance1\src\chame.cpp
+	"ChaMe.h"
+
+1664505241 source:e:\desktop\c\.khoa_lap_trinh_c_az\cpp\inheritance1\src\chame.cpp
+	"ChaMe.h"
+
+1664527728 e:\desktop\c\.khoa_lap_trinh_c_az\cpp\inheritance1\include\chame.h
+	<iostream>
+
+1664527228 source:e:\desktop\c\.khoa_lap_trinh_c_az\cpp\inheritance1\src\concai.cpp
+	"ConCai.h"
+
+1664527749 e:\desktop\c\.khoa_lap_trinh_c_az\cpp\inheritance1\include\concai.h
+	"ChaMe.h"
+
+1664807735 source:e:\desktop\c\.khoa_lap_trinh_c_az\cpp\inheritance1\main.cpp
+	<iostream>
+	"ChaMe.h"
+	"ConCai.h"
+

@@ -12,7 +12,7 @@
 
 uint32_t ReverseNumberBIN(uint32_t *pu32Number);
 
-uint32_t u32Number = 1234567;
+uint32_t u32Number = 0xff;
 
 int main()
 {

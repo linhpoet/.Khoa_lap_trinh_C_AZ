@@ -65,10 +65,24 @@ void function_address()     //đã tồn tại và có địa chỉ
 
 }
 
+struct s {
+    int arraySize;          //4 byte
+    int array[];            //flexible
+};
+
+int mang1[2] = {};
+int mang[] = {};
 int main()
 {
-    printf("%d", &function_address);
+    int desiredSire = 5;
+    struct s *ptr;
 
+    ptr = malloc( sizeof(struct s) + desiredSire * sizeof(int) );
+    printf("%d\n", sizeof(struct s));
+    mang[1] = 5;
+    printf("%d\n", sizeof(mang));
+    printf("%d\n", sizeof(mang1));
+    printf("%d\n", mang[1]);
     return 0;
 }
 

@@ -9,10 +9,13 @@
 #include <stdlib.h>
 #include <stdint.h>
 
-uint16_t u32Number = 0x63021;
+
 
 int main()
 {
+    uint32_t u32Number;
+    printf("nhap hex number:");
+    scanf("%x", &u32Number);
     printf("u8Length = %d\n", CountNumberHex(&u32Number));
     printf("u32ReverseNumber = %d\n", ReverseNumberHex(&u32Number));
 }
@@ -27,7 +30,7 @@ int CountNumberHex(uint32_t *pu32Number)
 
     do
     {
-        u32TempNum = (*pu32Number >> ((u8LengthHexNum - 1) * 4)) & 0xF;
+        u32TempNum = (*pu32Number >> ((u8LengthHexNum - 1) * 4)) & 0xF;     //đầu tiên, lấy ra giá thứ 8, sau đó giảm dần cho tới khi khác 0
         u8LengthHexNum--;
     }while (u32TempNum == 0);
 
@@ -38,7 +41,7 @@ int ReverseNumberHex(uint32_t *pu32Number)
 {
     uint8_t u8LengthHexNum = CountNumberHex(pu32Number);
     uint32_t u32TempNum = 0;
-    uint8_t u8TempCount = 0;
+    uint32_t u32TempCount = 0;
 
     while(u32TempCount < u8LengthHexNum)
     {

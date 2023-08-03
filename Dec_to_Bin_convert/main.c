@@ -55,6 +55,40 @@ void Bin_Convert(uint32_t dec)
     }
 }
 
+
+/*Khong dung duoc cho so Am*/
+int DecimalToBinary(int Decimal)
+{
+    int temp = 0;
+    int Binary = 0;
+    int lengthofbinary=1;
+    while(Decimal != 0)
+    {
+        temp = Decimal & 0x01;
+        Decimal = Decimal >> 1;
+        Binary = Binary + temp*lengthofbinary;
+        lengthofbinary *= 10;
+    }
+    printf("%d\n", Binary);
+    return (Binary);
+}
+
+/*Co so Am*/
+int convertDecimalToBinary(int n)
+{
+    long long Binary = 0;
+    int temp, lengthofbinary = 1;
+    while (n!=0)
+    {
+        temp = n%2;
+        n /= 2;
+        Binary += temp*lengthofbinary;
+        lengthofbinary *= 10;
+    }
+    printf("%d\n", Binary);
+    return Binary;
+}
+
 void Dec_to_Hex(uint32_t dec)
 {
 
