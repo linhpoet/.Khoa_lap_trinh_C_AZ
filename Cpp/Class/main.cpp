@@ -9,21 +9,21 @@ class Lophoc
     public:
         void SetName(string TenGi)
         {
-            name = TenGi;
-            ok();
+            nameInPrivate = TenGi;
+            fcInPrivate();
         }
         string GetName()
         {
-            return(name);
+            return(nameInPrivate);
 
         }
 
         int x = 10;
     private:
-        string name;
-        void ok()
+        string nameInPrivate;
+        void fcInPrivate()
         {
-            cout << "ok" << endl;
+            cout << "object in private is called in public" << endl;
         }
 };
 
@@ -36,15 +36,4 @@ int main()
     cout << Lophoc1.x <<endl;
     return 0;
 }
-
-// class Lophoc
-// {
-//     public:
-//         int variable;
-//         void function1();
-
-//     private:
-//         int private_variable;
-//         void private_function();
-// };
 

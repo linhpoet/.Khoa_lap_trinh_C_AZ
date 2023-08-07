@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1691422492 source:e:\hoc\c\.khoa_lap_trinh_c_az\cpp\17.destructor\main.cpp
+	<iostream>
+	"CongTy.h"
+
+1691422508 source:e:\hoc\c\.khoa_lap_trinh_c_az\cpp\17.destructor\src\congty.cpp
+	"CongTy.h"
+	<iostream>
+
+1691422027 e:\hoc\c\.khoa_lap_trinh_c_az\cpp\17.destructor\include\congty.h
+	<string>
+
