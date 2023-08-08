@@ -1,18 +1,28 @@
 # depslib dependency file v1.0
-1691423285 source:e:\hoc\c\.khoa_lap_trinh_c_az\cpp\65.inheritance\main.cpp
+1691515583 source:e:\hoc\c\.khoa_lap_trinh_c_az\cpp\65.inheritance\main.cpp
 	<iostream>
 	"ChaMe.h"
 	"ConCai.h"
+	"ChauChat.h"
 
-1691423157 e:\hoc\c\.khoa_lap_trinh_c_az\cpp\65.inheritance\include\chame.h
+1691515617 e:\hoc\c\.khoa_lap_trinh_c_az\cpp\65.inheritance\include\chame.h
+	<iostream>
 
-1691423419 e:\hoc\c\.khoa_lap_trinh_c_az\cpp\65.inheritance\include\concai.h
-	"ChaMe.h"
-
-1691422630 source:e:\hoc\c\.khoa_lap_trinh_c_az\cpp\65.inheritance\src\concai.cpp
-	"ConCai.h"
-
-1691422775 source:e:\hoc\c\.khoa_lap_trinh_c_az\cpp\65.inheritance\src\chame.cpp
+1691515562 e:\hoc\c\.khoa_lap_trinh_c_az\cpp\65.inheritance\include\concai.h
 	"ChaMe.h"
 	<iostream>
+
+1691515072 source:e:\hoc\c\.khoa_lap_trinh_c_az\cpp\65.inheritance\src\concai.cpp
+	"ConCai.h"
+	<iostream>
+
+1691515343 source:e:\hoc\c\.khoa_lap_trinh_c_az\cpp\65.inheritance\src\chame.cpp
+	"ChaMe.h"
+	<iostream>
+
+1691514919 source:e:\hoc\c\.khoa_lap_trinh_c_az\cpp\65.inheritance\src\chauchat.cpp
+	"ChauChat.h"
+
+1691515647 e:\hoc\c\.khoa_lap_trinh_c_az\cpp\65.inheritance\include\chauchat.h
+	"ConCai.h"
 

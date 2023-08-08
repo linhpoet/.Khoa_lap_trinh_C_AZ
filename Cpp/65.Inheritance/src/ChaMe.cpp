@@ -8,7 +8,7 @@ ChaMe::ChaMe()
 
 void ChaMe::XinChao()
 {
-    std::cout << "hello\n";
+    std::cout << "ChaMe hello\n";
 }
 ChaMe::~ChaMe()
 {

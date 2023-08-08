@@ -1,6 +1,6 @@
 #ifndef CHAME_H
 #define CHAME_H
-
+#include <iostream>
 //base class
 class ChaMe
 {
@@ -10,7 +10,10 @@ class ChaMe
         void XinChao();
 
     protected:
-
+        void protectedHello()
+        {
+            std::cout << "chame protected hello\n";
+        }
     private:
 };
 
