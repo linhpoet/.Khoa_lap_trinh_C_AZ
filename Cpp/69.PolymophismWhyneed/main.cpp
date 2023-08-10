@@ -4,10 +4,7 @@ using namespace std;
 class PhongTom
 {
 public:
-    virtual void SkillCoBan()
-    {
-        cout << "lv < 10: skill co ban: dam thuong" <<endl;
-    }
+    virtual void SkillCoBan(){cout << "lv < 10: skill co ban: dam thuong" <<endl;}
 };
 
 class CungThu: public PhongTom
