@@ -2,23 +2,10 @@
 
 using namespace std;
 
-int sum(int a, int b)
-{
-    return a+b;
-}
+int *p = new int[5];
 
-int sum(int a, int b, int c)
+int main()
 {
-    return a+b+c;
-}
 
-int sum(int a, int* b)
-{
-    return a+*b;
-}
-int main(void) {
-    cout <<sum(1,2);
-    cout <<sum(1,2,3);
-    int b=10;
-    cout << sum(1, &b);
+    for(int i=0; i<5; i++) cout << *(p+i) << endl;
 }

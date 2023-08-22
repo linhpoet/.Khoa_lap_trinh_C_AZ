@@ -1,0 +1,9 @@
+# ninja log v5
+0	620	7143418799016238	8_9_Qobject_Class_autogen/timestamp	44a1b70e1d2beb74
+0	620	7143418799016238	8_9_Qobject_Class_autogen/mocs_compilation.cpp	44a1b70e1d2beb74
+0	620	7143418799016238	E:/Hoc/C/.Khoa_lap_trinh_C_AZ/Cpp/QT/build-8_9_Qobject_Class-Desktop_Qt_6_2_4_MinGW_64_bit-Debug/8_9_Qobject_Class_autogen/timestamp	44a1b70e1d2beb74
+0	620	7143418799016238	E:/Hoc/C/.Khoa_lap_trinh_C_AZ/Cpp/QT/build-8_9_Qobject_Class-Desktop_Qt_6_2_4_MinGW_64_bit-Debug/8_9_Qobject_Class_autogen/mocs_compilation.cpp	44a1b70e1d2beb74
+620	2134	7143418814906175	CMakeFiles/8_9_Qobject_Class.dir/8_9_Qobject_Class_autogen/mocs_compilation.cpp.obj	ad957bd530425861
+626	2142	7143418814975989	CMakeFiles/8_9_Qobject_Class.dir/test.cpp.obj	f48fdcd612b113c
+623	2143	7143418814985966	CMakeFiles/8_9_Qobject_Class.dir/main.cpp.obj	efe47b752f578880
+2143	2518	7143418818701733	8_9_Qobject_Class.exe	d80bd616ba45f8c
