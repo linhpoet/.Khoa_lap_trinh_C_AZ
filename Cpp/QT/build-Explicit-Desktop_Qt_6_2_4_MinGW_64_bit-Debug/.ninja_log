@@ -1,0 +1,24 @@
+# ninja log v5
+0	110	7168477929544892	Explicit_autogen/timestamp	4c2fec760d075a3c
+0	110	7168477929544892	Explicit_autogen/mocs_compilation.cpp	4c2fec760d075a3c
+0	110	7168477929544892	E:/Hoc/C/.Khoa_lap_trinh_C_AZ/Cpp/QT/build-Explicit-Desktop_Qt_6_2_4_MinGW_64_bit-Debug/Explicit_autogen/timestamp	4c2fec760d075a3c
+0	110	7168477929544892	E:/Hoc/C/.Khoa_lap_trinh_C_AZ/Cpp/QT/build-Explicit-Desktop_Qt_6_2_4_MinGW_64_bit-Debug/Explicit_autogen/mocs_compilation.cpp	4c2fec760d075a3c
+111	146	7168477930267126	CMakeFiles/Explicit.dir/Explicit_autogen/mocs_compilation.cpp.obj	5c8a0c1f37286126
+113	1320	7168477942001132	CMakeFiles/Explicit.dir/main.cpp.obj	2b559ba8d10acd15
+1322	1404	7168477942811211	Explicit.exe	3daf074873d460d4
+8	96	7168478217321327	Explicit_autogen/timestamp	4c2fec760d075a3c
+8	96	7168478217321327	Explicit_autogen/mocs_compilation.cpp	4c2fec760d075a3c
+8	96	7168478217321327	E:/Hoc/C/.Khoa_lap_trinh_C_AZ/Cpp/QT/build-Explicit-Desktop_Qt_6_2_4_MinGW_64_bit-Debug/Explicit_autogen/timestamp	4c2fec760d075a3c
+8	96	7168478217321327	E:/Hoc/C/.Khoa_lap_trinh_C_AZ/Cpp/QT/build-Explicit-Desktop_Qt_6_2_4_MinGW_64_bit-Debug/Explicit_autogen/mocs_compilation.cpp	4c2fec760d075a3c
+7	88	7168478258324299	Explicit_autogen/timestamp	4c2fec760d075a3c
+7	88	7168478258324299	Explicit_autogen/mocs_compilation.cpp	4c2fec760d075a3c
+7	88	7168478258324299	E:/Hoc/C/.Khoa_lap_trinh_C_AZ/Cpp/QT/build-Explicit-Desktop_Qt_6_2_4_MinGW_64_bit-Debug/Explicit_autogen/timestamp	4c2fec760d075a3c
+7	88	7168478258324299	E:/Hoc/C/.Khoa_lap_trinh_C_AZ/Cpp/QT/build-Explicit-Desktop_Qt_6_2_4_MinGW_64_bit-Debug/Explicit_autogen/mocs_compilation.cpp	4c2fec760d075a3c
+89	1310	7168478270539135	CMakeFiles/Explicit.dir/main.cpp.obj	2b559ba8d10acd15
+1310	1400	7168478271394576	Explicit.exe	3daf074873d460d4
+8	84	7168479954219817	Explicit_autogen/timestamp	4c2fec760d075a3c
+8	84	7168479954219817	Explicit_autogen/mocs_compilation.cpp	4c2fec760d075a3c
+8	84	7168479954219817	E:/Hoc/C/.Khoa_lap_trinh_C_AZ/Cpp/QT/build-Explicit-Desktop_Qt_6_2_4_MinGW_64_bit-Debug/Explicit_autogen/timestamp	4c2fec760d075a3c
+8	84	7168479954219817	E:/Hoc/C/.Khoa_lap_trinh_C_AZ/Cpp/QT/build-Explicit-Desktop_Qt_6_2_4_MinGW_64_bit-Debug/Explicit_autogen/mocs_compilation.cpp	4c2fec760d075a3c
+85	1353	7168479966913196	CMakeFiles/Explicit.dir/main.cpp.obj	2b559ba8d10acd15
+1354	1442	7168479967772071	Explicit.exe	3daf074873d460d4

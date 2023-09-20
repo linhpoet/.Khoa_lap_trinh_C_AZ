@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-3fee13168f8f16bf6277.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "107_QObjectCannotCopied",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "107_QObjectCannotCopied::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-107_QObjectCannotCopied-Debug-ffcac77ef5b7f78fffe4.json",
+					"name" : "107_QObjectCannotCopied",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "107_QObjectCannotCopied_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-107_QObjectCannotCopied_autogen-Debug-0709b8474d34ac82341b.json",
+					"name" : "107_QObjectCannotCopied_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "107_QObjectCannotCopied_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-107_QObjectCannotCopied_autogen_timestamp_deps-Debug-806d1a0f8896f4e6c928.json",
+					"name" : "107_QObjectCannotCopied_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "E:/Hoc/C/.Khoa_lap_trinh_C_AZ/Cpp/QT/107_QObjectCannotCopied/build-107_QObjectCannotCopied-Desktop_Qt_6_2_4_MinGW_64_bit-Debug",
+		"source" : "E:/Hoc/C/.Khoa_lap_trinh_C_AZ/Cpp/QT/107_QObjectCannotCopied/107_QObjectCannotCopied"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

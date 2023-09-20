@@ -1,0 +1,12 @@
+# ninja log v5
+10	497	7153532194377327	Test1_autogen/timestamp	5f5e3b7910ba53e0
+493	538	7153499225681194	CMakeFiles/Test1.dir/Test1_autogen/mocs_compilation.cpp.obj	5fbbe8361732b413
+10	497	7153532194377327	Test1_autogen/mocs_compilation.cpp	5f5e3b7910ba53e0
+10	497	7153532194377327	E:/Hoc/C/.Khoa_lap_trinh_C_AZ/Cpp/QT/0_Test1/Test1_autogen/timestamp	5f5e3b7910ba53e0
+10	497	7153532194377327	E:/Hoc/C/.Khoa_lap_trinh_C_AZ/Cpp/QT/0_Test1/Test1_autogen/mocs_compilation.cpp	5f5e3b7910ba53e0
+2003	2095	7153532210344686	Test1.exe	2e9de6fa149add04
+499	2002	7153532209446783	CMakeFiles/Test1.dir/main.cpp.obj	be3257e90c2be033
+6	123	7153653127221497	Test1_autogen/timestamp	5f5e3b7910ba53e0
+6	123	7153653127221497	Test1_autogen/mocs_compilation.cpp	5f5e3b7910ba53e0
+6	123	7153653127221497	E:/Hoc/C/.Khoa_lap_trinh_C_AZ/Cpp/QT/0_Test1/Test1_autogen/timestamp	5f5e3b7910ba53e0
+6	123	7153653127221497	E:/Hoc/C/.Khoa_lap_trinh_C_AZ/Cpp/QT/0_Test1/Test1_autogen/mocs_compilation.cpp	5f5e3b7910ba53e0

@@ -1,39 +1,46 @@
 #include <iostream>
-#include <string>
-
 using namespace std;
 
-int x;
-class Lophoc
+class test
 {
     public:
-        void SetName(string TenGi)
-        {
-            nameInPrivate = TenGi;
-            fcInPrivate();
-        }
-        string GetName()
-        {
-            return(nameInPrivate);
-
-        }
-
-        int x = 10;
-    private:
-        string nameInPrivate;
-        void fcInPrivate()
-        {
-            cout << "object in private is called in public" << endl;
-        }
+    test()
+    {
+        cout << "hello\n";
+    }
 };
+
+void testObject(test ob)
+{
+    cout << &ob << endl;
+}
+
+void testpObject(test* pob)
+{
+    cout << &pob << endl;
+}
+
+test getObject()
+{
+    test ob1;
+    return ob1;
+}
+
+test* getpObject()
+{
+    test* ob1;
+    return ob1;
+}
 
 int main()
 {
-    Lophoc Lophoc1;
-    Lophoc1.SetName("Le Quang Linh");
+    test ob = getObject();
+    cout << &ob << endl;
+    testObject(ob);
 
-    cout << Lophoc1.GetName() <<endl;
-    cout << Lophoc1.x <<endl;
+    test *pob = getpObject();
+    //cout << pob << endl;
+    testpObject(pob);
+
     return 0;
 }
-

@@ -1,0 +1,8 @@
+# ninja log v5
+1	120	7163241281023386	3_HelloWorld_autogen/timestamp	3c2df661aa9d3c2
+1	120	7163241281023386	3_HelloWorld_autogen/mocs_compilation.cpp	3c2df661aa9d3c2
+1	120	7163241281023386	E:/Hoc/C/.Khoa_lap_trinh_C_AZ/Cpp/QT/3_HelloWorld/build_folder/3_HelloWorld_autogen/timestamp	3c2df661aa9d3c2
+1	120	7163241281023386	E:/Hoc/C/.Khoa_lap_trinh_C_AZ/Cpp/QT/3_HelloWorld/build_folder/3_HelloWorld_autogen/mocs_compilation.cpp	3c2df661aa9d3c2
+122	160	7163241281809339	CMakeFiles/3_HelloWorld.dir/3_HelloWorld_autogen/mocs_compilation.cpp.obj	153db5b7581f4a20
+120	1328	7163241293476717	CMakeFiles/3_HelloWorld.dir/main.cpp.obj	cb10752f95e16e12
+1331	1432	7163241294495714	3_HelloWorld.exe	d974dcb705554f8e

@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-99909410332ce27592e1.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "11_Signal_andSlot_in1file",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "11_Signal_andSlot_in1file::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-11_Signal_andSlot_in1file-Debug-ffe525b00fd5feb8d74f.json",
+					"name" : "11_Signal_andSlot_in1file",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "11_Signal_andSlot_in1file_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-11_Signal_andSlot_in1file_autogen-Debug-0f5064c3ec21f58cd452.json",
+					"name" : "11_Signal_andSlot_in1file_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "11_Signal_andSlot_in1file_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-11_Signal_andSlot_in1file_autogen_timestamp_deps-Debug-b68ca6a3426c62727fb7.json",
+					"name" : "11_Signal_andSlot_in1file_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "E:/Hoc/C/.Khoa_lap_trinh_C_AZ/Cpp/QT/11_Signal_andSlot_in1file/build_folder",
+		"source" : "E:/Hoc/C/.Khoa_lap_trinh_C_AZ/Cpp/QT/11_Signal_andSlot_in1file"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

@@ -13,12 +13,8 @@ set(CMAKE_CXX_STANDARD_REQUIRED ON)
 
 find_package(QT NAMES Qt6 Qt5 REQUIRED COMPONENTS Core)
 find_package(Qt${QT_VERSION_MAJOR} REQUIRED COMPONENTS Core)
-
 add_executable(Test1
   main.cpp
-  test.cpp
-  test.h
-
 )
 target_link_libraries(Test1 Qt${QT_VERSION_MAJOR}::Core)
 

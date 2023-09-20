@@ -1,0 +1,9 @@
+E:/Hoc/C/.Khoa_lap_trinh_C_AZ/Cpp/QT/0_Test2/CMakeFiles/0_Test2.dir
+E:/Hoc/C/.Khoa_lap_trinh_C_AZ/Cpp/QT/0_Test2/CMakeFiles/edit_cache.dir
+E:/Hoc/C/.Khoa_lap_trinh_C_AZ/Cpp/QT/0_Test2/CMakeFiles/rebuild_cache.dir
+E:/Hoc/C/.Khoa_lap_trinh_C_AZ/Cpp/QT/0_Test2/CMakeFiles/list_install_components.dir
+E:/Hoc/C/.Khoa_lap_trinh_C_AZ/Cpp/QT/0_Test2/CMakeFiles/install.dir
+E:/Hoc/C/.Khoa_lap_trinh_C_AZ/Cpp/QT/0_Test2/CMakeFiles/install/local.dir
+E:/Hoc/C/.Khoa_lap_trinh_C_AZ/Cpp/QT/0_Test2/CMakeFiles/install/strip.dir
+E:/Hoc/C/.Khoa_lap_trinh_C_AZ/Cpp/QT/0_Test2/CMakeFiles/0_Test2_autogen_timestamp_deps.dir
+E:/Hoc/C/.Khoa_lap_trinh_C_AZ/Cpp/QT/0_Test2/CMakeFiles/0_Test2_autogen.dir

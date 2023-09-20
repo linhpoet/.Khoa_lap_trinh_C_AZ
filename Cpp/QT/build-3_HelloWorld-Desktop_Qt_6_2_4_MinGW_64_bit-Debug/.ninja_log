@@ -1,8 +1,0 @@
-# ninja log v5
-1	130	7139951558357303	3_HelloWorld_autogen/timestamp	98b8f4b0644a1b81
-1	130	7139951558357303	3_HelloWorld_autogen/mocs_compilation.cpp	98b8f4b0644a1b81
-1	130	7139951558357303	E:/Hoc/C/.Khoa_lap_trinh_C_AZ/Cpp/QT/build-3_HelloWorld-Desktop_Qt_6_2_4_MinGW_64_bit-Debug/3_HelloWorld_autogen/timestamp	98b8f4b0644a1b81
-1	130	7139951558357303	E:/Hoc/C/.Khoa_lap_trinh_C_AZ/Cpp/QT/build-3_HelloWorld-Desktop_Qt_6_2_4_MinGW_64_bit-Debug/3_HelloWorld_autogen/mocs_compilation.cpp	98b8f4b0644a1b81
-130	172	7139951559185088	CMakeFiles/3_HelloWorld.dir/3_HelloWorld_autogen/mocs_compilation.cpp.obj	a15d03732e12530f
-134	1431	7139951571768383	CMakeFiles/3_HelloWorld.dir/main.cpp.obj	cc580bda00f7aadb
-1433	1521	7139951572654103	3_HelloWorld.exe	d974dcb705554f8e

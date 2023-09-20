@@ -1,0 +1,14 @@
+# ninja log v5
+1	150	7153694801440145	105_AutoMemManage_autogen/timestamp	fe084decee7b8182
+1	150	7153694801440145	105_AutoMemManage_autogen/mocs_compilation.cpp	fe084decee7b8182
+1	150	7153694801440145	E:/Hoc/C/.Khoa_lap_trinh_C_AZ/Cpp/QT/105_AutomaticMemoryManagement/build-105_AutoMemManage-Desktop_Qt_6_2_4_MinGW_64_bit-Debug/105_AutoMemManage_autogen/timestamp	fe084decee7b8182
+1	150	7153694801440145	E:/Hoc/C/.Khoa_lap_trinh_C_AZ/Cpp/QT/105_AutomaticMemoryManagement/build-105_AutoMemManage-Desktop_Qt_6_2_4_MinGW_64_bit-Debug/105_AutoMemManage_autogen/mocs_compilation.cpp	fe084decee7b8182
+150	196	7153694802348187	CMakeFiles/105_AutoMemManage.dir/105_AutoMemManage_autogen/mocs_compilation.cpp.obj	1335527a8b62b4fc
+6	1314	7153695661199545	CMakeFiles/105_AutoMemManage.dir/main.cpp.obj	a33b954be060dfa7
+1316	1408	7153695662132380	105_AutoMemManage.exe	46dacb41477b380f
+2	115	7153789353050222	105_AutoMemManage_autogen/timestamp	fe084decee7b8182
+2	115	7153789353050222	105_AutoMemManage_autogen/mocs_compilation.cpp	fe084decee7b8182
+2	115	7153789353050222	E:/Hoc/C/.Khoa_lap_trinh_C_AZ/Cpp/QT/105_AutomaticMemoryManagement/build-105_AutoMemManage-Desktop_Qt_6_2_4_MinGW_64_bit-Debug/105_AutoMemManage_autogen/timestamp	fe084decee7b8182
+2	115	7153789353050222	E:/Hoc/C/.Khoa_lap_trinh_C_AZ/Cpp/QT/105_AutomaticMemoryManagement/build-105_AutoMemManage-Desktop_Qt_6_2_4_MinGW_64_bit-Debug/105_AutoMemManage_autogen/mocs_compilation.cpp	fe084decee7b8182
+116	1530	7153789367211970	CMakeFiles/105_AutoMemManage.dir/main.cpp.obj	a33b954be060dfa7
+1530	1629	7153789368168458	105_AutoMemManage.exe	46dacb41477b380f
