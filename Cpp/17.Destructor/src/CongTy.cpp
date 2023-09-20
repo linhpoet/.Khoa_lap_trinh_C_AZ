@@ -4,7 +4,7 @@ using namespace std;
 
 CongTy::CongTy(string name1, int year1)
 {
-    cout << "CONSTRUCTOR" << endl << endl;
+    cout << "\nCONSTRUCTOR" << endl;
     name = name1;
     year = year1;
 }
@@ -20,5 +20,5 @@ int CongTy::getYear()
 
 CongTy::~CongTy()
 {
-    cout << "\nDESTRUCTOR" << endl;
+    cout << "DESTRUCTOR" << endl;
 }
