@@ -4,14 +4,23 @@ using namespace std;
 
 void swapp(int *a, int *b);
 
+struct abc
+{
+    void say()
+    {
+        cout << "hello";
+    }
+};
+#include <iostream>
+using namespace std;
+
 int main()
 {
-    int a= 10;
-    int b=15;
-    cout << a <<"\t"<< b<<endl;
-    swapp(&a,&b);
-    cout << a <<"\t" <<b<<endl;
-    return 0;
+    int a = 5;
+    int &r = a;
+    cout << a << r;
+    r = 10;
+    cout << a << r;
 }
 
 void swapp(int *a, int* b)

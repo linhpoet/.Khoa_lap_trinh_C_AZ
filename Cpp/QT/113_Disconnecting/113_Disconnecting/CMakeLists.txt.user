@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE QtCreatorProject>
-<!-- Written by QtCreator 8.0.1, 2023-09-20T00:40:29. -->
+<!-- Written by QtCreator 8.0.1, 2023-09-26T12:08:05. -->
 <qtcreator>
  <data>
   <variable>EnvironmentId</variable>
@@ -350,6 +350,7 @@
     <value type="bool" key="RunConfiguration.UseLibrarySearchPath">true</value>
     <value type="bool" key="RunConfiguration.UseQmlDebugger">false</value>
     <value type="bool" key="RunConfiguration.UseQmlDebuggerAuto">true</value>
+    <value type="bool" key="RunConfiguration.UseTerminal">true</value>
     <value type="QString" key="RunConfiguration.WorkingDirectory.default">E:/Hoc/C/.Khoa_lap_trinh_C_AZ/Cpp/QT/113_Disconnecting/113_Disconnecting/build-113_Disconnecting-Desktop_Qt_6_2_4_MinGW_64_bit-Debug</value>
    </valuemap>
    <value type="qlonglong" key="ProjectExplorer.Target.RunConfigurationCount">1</value>

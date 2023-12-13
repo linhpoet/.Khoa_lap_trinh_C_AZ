@@ -31,5 +31,8 @@ int main()
     cout << endl;
     ct.Skill_3();       //override
     ct.Skill_4();       //ct ke thua Skill_4()
+
+    PhongTom *pt3 = new PhongTom;
+    //pt3->Skill_2();
     return 0;
 }

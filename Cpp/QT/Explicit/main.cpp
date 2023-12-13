@@ -27,3 +27,13 @@ int main(int argc, char *argv[])
     h3.GetAge();
     return a.exec();
 }
+
+//toán hạng :: cho static function
+QObject::connect( &ObjectSender, &SendSignal, &ObjectReceiver, &ReceivedSignal);
+
+//derive class của QObject
+QObject_DeriveClass.connect( &ObjectSender, &SendSignal, &ObjectReceiver, &ReceivedSignal);
+
+vd:
+QObject::connect(&boombox, &Radio::quit, &a, &QCoreApplication::quit);
+boombox.connect(&boombox, &Radio::quit, &a, &QCoreApplication::quit);

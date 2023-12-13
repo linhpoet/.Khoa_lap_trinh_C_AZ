@@ -28,6 +28,14 @@ int main()
     return 0;
 }
 
+void BubbleSort_vector(int )
+{
+
+}
+
+
+
+
 void BubbleSort(int* arr, int sizeArr)
 {
     for(int i=0; i<sizeArr - 1; i++)

@@ -31,13 +31,65 @@ public:
     }
 };
 
+class bareclass
+{
+protected:
+    void barehello()
+    {
+        cout <<"hello";
+    }
+
+};
+
+class deriveclass : protected bareclass
+{
+public:
+    void hello()
+    {
+        barehello();
+    }
+protected:
+    void derivehello()
+    {
+        barehello();
+    }
+};
+
+class secondderiveclass : protected deriveclass
+{
+public:
+
+    void hello()
+    {
+        barehello();
+    }
+};
+
+int const globalvar1=10;
 
 int main()
 {
+    const int const_val = 10;
+    int *ptr_to_const = &const_val;
+
+    printf("Value of constant is %d",const_val);
+    *ptr_to_const = 20;
+    printf("Value of constant is %d",const_val);
+
+
+    const int localvar1=10;
+    int *pvar1 = &localvar1;
+    *pvar1 = 11;
+    cout << localvar1 << endl;
+    pvar1 = &globalvar1;
+    cout << globalvar1 << endl;
     Sinhvien Linh;
     Linh.inthongtin();
 
-
+    deriveclass derive;
+    derive.hello();
+    secondderiveclass seconderive;
+    seconderive.hello();
 
     cout << "Hello world!" << endl;
     return 0;

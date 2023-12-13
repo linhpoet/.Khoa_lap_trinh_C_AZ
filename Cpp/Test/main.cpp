@@ -2,10 +2,12 @@
 
 using namespace std;
 
-int *p = new int[5];
-
 int main()
 {
-
-    for(int i=0; i<5; i++) cout << *(p+i) << endl;
+    const int const_val = 10;
+    int *ptr_to_const = &const_val;
+    printf("Value of constant is %d\n",const_val);
+    *ptr_to_const = 20;
+    printf("Value of constant is %d",const_val);
+    return 0;
 }

@@ -8,6 +8,8 @@ class Radio : public QObject
     Q_OBJECT
 public:
     Radio(QObject *parent=nullptr);
+signals:
+    void quit();
 public slots:
     void listen(int channel, QString name, QString message);
 };

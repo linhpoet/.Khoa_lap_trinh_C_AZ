@@ -19,7 +19,7 @@ public:
 class GayThu: public PhongTom
 {
 public:
-    void SkillCoBan()
+    void SkillCoBan() override
     {
         cout <<"lv > 10: skill co ban: danh gay"<<endl;
     }
@@ -37,6 +37,9 @@ int main()
     level = 11;
     isCungThu = true;
     TungChieu(nvgame, level);
+
+    CungThu *cungthu1 = new CungThu;
+    cungthu1->SkillCoBan();
 
     return 0;
 }
