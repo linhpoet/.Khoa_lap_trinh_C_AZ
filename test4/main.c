@@ -74,17 +74,15 @@ int mang1[2] = {};
 int mang[] = {};
 int main()
 {
-    int desiredSire = 5;
-    struct s *ptr;
+    const int const_val = 10;
+    int *ptr_to_const = &const_val;
 
-    ptr = malloc( sizeof(struct s) + desiredSire * sizeof(int) );
-    printf("%d\n", sizeof(struct s));
-    mang[1] = 5;
-    printf("%d\n", sizeof(mang));
-    printf("%d\n", sizeof(mang1));
-    printf("%d\n", mang[1]);
+    printf("Value of constant is %d",const_val);
+    *ptr_to_const = 20;
+    printf("Value of constant is %d",const_val);
     return 0;
 }
+
 
 /*
 

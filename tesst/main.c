@@ -3,8 +3,7 @@
 
 int main()
 {
-    for(int i=0; i<5; i++)
-    {
-        continue;
-    }
+    int &p = a;
+    cout << &p << endl << &a;
+    return 0;
 }
