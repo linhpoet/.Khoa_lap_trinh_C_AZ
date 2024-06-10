@@ -1,0 +1,17 @@
+# ninja log v5
+1	666	7323962179505398	DynamicCasting_autogen/timestamp	d4c46482328845b2
+1	666	7323962179505398	DynamicCasting_autogen/mocs_compilation.cpp	d4c46482328845b2
+1	666	7323962179505398	E:/Hoc/C/.Khoa_lap_trinh_C_AZ/Cpp/QT/DynamicCasting/build-DynamicCasting-Desktop_Qt_6_2_4_MinGW_64_bit-Debug/DynamicCasting_autogen/timestamp	d4c46482328845b2
+1	666	7323962179505398	E:/Hoc/C/.Khoa_lap_trinh_C_AZ/Cpp/QT/DynamicCasting/build-DynamicCasting-Desktop_Qt_6_2_4_MinGW_64_bit-Debug/DynamicCasting_autogen/mocs_compilation.cpp	d4c46482328845b2
+672	2647	7323962200080357	CMakeFiles/DynamicCasting.dir/racecar.cpp.obj	7e310d3f9171bbdd
+677	2653	7323962200100303	CMakeFiles/DynamicCasting.dir/feline.cpp.obj	4655980dc4c5fb95
+667	2661	7323962200219990	CMakeFiles/DynamicCasting.dir/main.cpp.obj	57fc36115b9fdc67
+674	2686	7323962200469317	CMakeFiles/DynamicCasting.dir/car.cpp.obj	6c274c0b677ae881
+669	2730	7323962200928083	CMakeFiles/DynamicCasting.dir/DynamicCasting_autogen/mocs_compilation.cpp.obj	7527edf400fdfcec
+2730	2885	7323962202438644	DynamicCasting.exe	29205fc3a5f6ef77
+15	166	7323973848737368	DynamicCasting_autogen/timestamp	d4c46482328845b2
+15	166	7323973848737368	DynamicCasting_autogen/mocs_compilation.cpp	d4c46482328845b2
+15	166	7323973848737368	E:/Hoc/C/.Khoa_lap_trinh_C_AZ/Cpp/QT/DynamicCasting/build-DynamicCasting-Desktop_Qt_6_2_4_MinGW_64_bit-Debug/DynamicCasting_autogen/timestamp	d4c46482328845b2
+15	166	7323973848737368	E:/Hoc/C/.Khoa_lap_trinh_C_AZ/Cpp/QT/DynamicCasting/build-DynamicCasting-Desktop_Qt_6_2_4_MinGW_64_bit-Debug/DynamicCasting_autogen/mocs_compilation.cpp	d4c46482328845b2
+168	1584	7323973862909404	CMakeFiles/DynamicCasting.dir/main.cpp.obj	57fc36115b9fdc67
+1585	1721	7323973864245808	DynamicCasting.exe	29205fc3a5f6ef77

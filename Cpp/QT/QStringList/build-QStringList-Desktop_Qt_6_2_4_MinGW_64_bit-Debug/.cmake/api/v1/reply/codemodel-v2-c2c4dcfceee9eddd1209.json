@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-0854163db40cd994332c.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "QStringList",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "QStringList::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-QStringList-Debug-60094cd4ef76a8cd9aa3.json",
+					"name" : "QStringList",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "QStringList_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-QStringList_autogen-Debug-db388fa26f1bc5131c69.json",
+					"name" : "QStringList_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "QStringList_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-QStringList_autogen_timestamp_deps-Debug-c00a1ff94c2d4ff4d38c.json",
+					"name" : "QStringList_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "E:/Hoc/C/.Khoa_lap_trinh_C_AZ/Cpp/QT/QStringList/build-QStringList-Desktop_Qt_6_2_4_MinGW_64_bit-Debug",
+		"source" : "E:/Hoc/C/.Khoa_lap_trinh_C_AZ/Cpp/QT/QStringList"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

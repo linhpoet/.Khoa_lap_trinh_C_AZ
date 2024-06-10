@@ -1,0 +1,10 @@
+# ninja log v5
+1	612	7324785536003536	qt6cb-11-4_autogen/timestamp	cb8e7856a2261d05
+1	612	7324785536003536	qt6cb-11-4_autogen/mocs_compilation.cpp	cb8e7856a2261d05
+1	612	7324785536003536	E:/Hoc/C/.Khoa_lap_trinh_C_AZ/Cpp/QT/qt6-core-beginners-main/section 11/qt6cb-11-4/build-qt6cb-11-4-Desktop_Qt_6_2_4_MinGW_64_bit-Debug/qt6cb-11-4_autogen/timestamp	cb8e7856a2261d05
+1	612	7324785536003536	E:/Hoc/C/.Khoa_lap_trinh_C_AZ/Cpp/QT/qt6-core-beginners-main/section 11/qt6cb-11-4/build-qt6cb-11-4-Desktop_Qt_6_2_4_MinGW_64_bit-Debug/qt6cb-11-4_autogen/mocs_compilation.cpp	cb8e7856a2261d05
+614	2139	7324785552110433	CMakeFiles/qt6cb-11-4.dir/source.cpp.obj	8aff1554eeba9a68
+619	2229	7324785553001687	CMakeFiles/qt6cb-11-4.dir/destination.cpp.obj	ebdb551e11384d29
+617	2267	7324785553380674	CMakeFiles/qt6cb-11-4.dir/main.cpp.obj	6801db35df19d510
+612	2346	7324785554178536	CMakeFiles/qt6cb-11-4.dir/qt6cb-11-4_autogen/mocs_compilation.cpp.obj	f3a7a4e8eabb1d42
+2346	2498	7324785555664600	qt6cb-11-4.exe	e932b21b2ba9bdd1

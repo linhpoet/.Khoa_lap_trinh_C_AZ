@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-23fb7d9603e16bf55a66.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "QVariant",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "QVariant::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-QVariant-Debug-4ac5d3d1b4b137b35565.json",
+					"name" : "QVariant",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "QVariant_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-QVariant_autogen-Debug-cb6d6788d0da150738c1.json",
+					"name" : "QVariant_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "QVariant_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-QVariant_autogen_timestamp_deps-Debug-60ad6253492d35951920.json",
+					"name" : "QVariant_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "E:/Hoc/C/.Khoa_lap_trinh_C_AZ/Cpp/QT/QVariant/build-QVariant-Desktop_Qt_6_2_4_MinGW_64_bit-Debug",
+		"source" : "E:/Hoc/C/.Khoa_lap_trinh_C_AZ/Cpp/QT/QVariant"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

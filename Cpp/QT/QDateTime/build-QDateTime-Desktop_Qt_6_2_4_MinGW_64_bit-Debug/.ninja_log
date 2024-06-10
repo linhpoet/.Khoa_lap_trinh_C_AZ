@@ -1,0 +1,14 @@
+# ninja log v5
+0	113	7327427498513471	QDateTime_autogen/timestamp	f92ea5ab7ebb770
+0	113	7327427498513471	QDateTime_autogen/mocs_compilation.cpp	f92ea5ab7ebb770
+0	113	7327427498513471	E:/Hoc/C/.Khoa_lap_trinh_C_AZ/Cpp/QT/QDateTime/build-QDateTime-Desktop_Qt_6_2_4_MinGW_64_bit-Debug/QDateTime_autogen/timestamp	f92ea5ab7ebb770
+0	113	7327427498513471	E:/Hoc/C/.Khoa_lap_trinh_C_AZ/Cpp/QT/QDateTime/build-QDateTime-Desktop_Qt_6_2_4_MinGW_64_bit-Debug/QDateTime_autogen/mocs_compilation.cpp	f92ea5ab7ebb770
+114	155	7327427499311333	CMakeFiles/QDateTime.dir/QDateTime_autogen/mocs_compilation.cpp.obj	2d8df43d38f44051
+117	1438	7327427512138323	CMakeFiles/QDateTime.dir/main.cpp.obj	5adb09011eea1237
+1440	1532	7327427513045525	QDateTime.exe	6a4ea7c5795fdf99
+3	86	7327429396793071	QDateTime_autogen/timestamp	f92ea5ab7ebb770
+3	86	7327429396793071	QDateTime_autogen/mocs_compilation.cpp	f92ea5ab7ebb770
+3	86	7327429396793071	E:/Hoc/C/.Khoa_lap_trinh_C_AZ/Cpp/QT/QDateTime/build-QDateTime-Desktop_Qt_6_2_4_MinGW_64_bit-Debug/QDateTime_autogen/timestamp	f92ea5ab7ebb770
+3	86	7327429396793071	E:/Hoc/C/.Khoa_lap_trinh_C_AZ/Cpp/QT/QDateTime/build-QDateTime-Desktop_Qt_6_2_4_MinGW_64_bit-Debug/QDateTime_autogen/mocs_compilation.cpp	f92ea5ab7ebb770
+87	1379	7327429409725256	CMakeFiles/QDateTime.dir/main.cpp.obj	5adb09011eea1237
+1379	1475	7327429410662751	QDateTime.exe	6a4ea7c5795fdf99

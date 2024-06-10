@@ -1,0 +1,22 @@
+# ninja log v5
+1	130	7327433126622599	QVariant_autogen/timestamp	3a09921727a55d68
+1	130	7327433126622599	QVariant_autogen/mocs_compilation.cpp	3a09921727a55d68
+1	130	7327433126622599	E:/Hoc/C/.Khoa_lap_trinh_C_AZ/Cpp/QT/QVariant/build-QVariant-Desktop_Qt_6_2_4_MinGW_64_bit-Debug/QVariant_autogen/timestamp	3a09921727a55d68
+1	130	7327433126622599	E:/Hoc/C/.Khoa_lap_trinh_C_AZ/Cpp/QT/QVariant/build-QVariant-Desktop_Qt_6_2_4_MinGW_64_bit-Debug/QVariant_autogen/mocs_compilation.cpp	3a09921727a55d68
+130	169	7327433127500240	CMakeFiles/QVariant.dir/QVariant_autogen/mocs_compilation.cpp.obj	80981002e855893b
+6	101	7327433339044950	QVariant_autogen/timestamp	3a09921727a55d68
+6	101	7327433339044950	QVariant_autogen/mocs_compilation.cpp	3a09921727a55d68
+6	101	7327433339044950	E:/Hoc/C/.Khoa_lap_trinh_C_AZ/Cpp/QT/QVariant/build-QVariant-Desktop_Qt_6_2_4_MinGW_64_bit-Debug/QVariant_autogen/timestamp	3a09921727a55d68
+6	101	7327433339044950	E:/Hoc/C/.Khoa_lap_trinh_C_AZ/Cpp/QT/QVariant/build-QVariant-Desktop_Qt_6_2_4_MinGW_64_bit-Debug/QVariant_autogen/mocs_compilation.cpp	3a09921727a55d68
+6	86	7327433412998108	QVariant_autogen/timestamp	3a09921727a55d68
+6	86	7327433412998108	QVariant_autogen/mocs_compilation.cpp	3a09921727a55d68
+6	86	7327433412998108	E:/Hoc/C/.Khoa_lap_trinh_C_AZ/Cpp/QT/QVariant/build-QVariant-Desktop_Qt_6_2_4_MinGW_64_bit-Debug/QVariant_autogen/timestamp	3a09921727a55d68
+6	86	7327433412998108	E:/Hoc/C/.Khoa_lap_trinh_C_AZ/Cpp/QT/QVariant/build-QVariant-Desktop_Qt_6_2_4_MinGW_64_bit-Debug/QVariant_autogen/mocs_compilation.cpp	3a09921727a55d68
+87	1388	7327433426023270	CMakeFiles/QVariant.dir/main.cpp.obj	8500c9ad35986638
+1390	1483	7327433426921190	QVariant.exe	523fe22062cf29d2
+8	93	7327433568477402	QVariant_autogen/timestamp	3a09921727a55d68
+8	93	7327433568477402	QVariant_autogen/mocs_compilation.cpp	3a09921727a55d68
+8	93	7327433568477402	E:/Hoc/C/.Khoa_lap_trinh_C_AZ/Cpp/QT/QVariant/build-QVariant-Desktop_Qt_6_2_4_MinGW_64_bit-Debug/QVariant_autogen/timestamp	3a09921727a55d68
+8	93	7327433568477402	E:/Hoc/C/.Khoa_lap_trinh_C_AZ/Cpp/QT/QVariant/build-QVariant-Desktop_Qt_6_2_4_MinGW_64_bit-Debug/QVariant_autogen/mocs_compilation.cpp	3a09921727a55d68
+93	1412	7327433581662135	CMakeFiles/QVariant.dir/main.cpp.obj	8500c9ad35986638
+1412	1504	7327433582559732	QVariant.exe	523fe22062cf29d2
