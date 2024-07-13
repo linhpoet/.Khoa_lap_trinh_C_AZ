@@ -1,63 +1,35 @@
 #include <iostream>
 #include <vector>
-#include <string>
 using namespace std;
-class Node
-{
-private:
-    int key;
-    bool value;
-    Node* next;
-};
-
-class HashTable
-{
-private:
-    static const int SIZE = 7;
-    int dataMap[SIZE] = {};
-
-public:
-    HashTable()
-    {
-        for(int i=0; i<SIZE; i++) dataMap[i] = 0;
-    }
-
-    ~HashTable()
-    {
-
-    }
-
-    int hash(string key)
-    {
-        int hashvalue = 0;
-        for(int i=0; i<key.length(); i++)
+int removeDuplicates(vector<int>& nums) {
+        int length = nums.size();
+        int countDup = 0;
+        int ret = length;
+        for(int i=0; i<length; i++)
         {
-            int ascciKeyValue = int(key[i]);
-            hashvalue = (hashvalue + ascciKeyValue*23) % SIZE;
+                if(i+1 < length & nums[i] == nums[i+1])
+                {
+                    countDup++;
+                    if(countDup >= 2)
+                    {
+                        ret--;
+                        for(int k=i+1; k<length; k++)
+                        {
+                            nums[k-1] = nums[k];
+                        }
+                    }
+                }
+                else countDup = 0;
         }
-        return hashvalue;
+        return ret;
     }
 
-    void insert(string key, int value)
-    {
-        int index = hash(key);
-        dataMap[index] = value;
-    }
-
-    int get(string key)
-    {
-        int index = hash(key);
-        return dataMap[index];
-
-    }
-};
-
+vector<int> nums = {0,0,1,1,1,1,2,3,3};
 int main()
 {
-    HashTable myht;
-    cout << myht.get("muoi") << endl;
-    myht.insert("muoi", 10);
-    cout << myht.get("muoi") << endl;
-    cout <<"hello world\n";
+    cout <<"hello";
+    cout << removeDuplicates(nums);
+    cout <<"hello";
     return 0;
 }
+
