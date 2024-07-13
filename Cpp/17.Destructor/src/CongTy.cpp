@@ -2,6 +2,11 @@
 #include <iostream>
 using namespace std;
 
+CongTy::CongTy()
+{
+
+}
+
 CongTy::CongTy(string name1, int year1)
 {
     cout << "\nCONSTRUCTOR" << endl;
@@ -20,5 +25,5 @@ int CongTy::getYear()
 
 CongTy::~CongTy()
 {
-    cout << "DESTRUCTOR" << endl;
+    cout << "DESTRUCTOR " << name << endl;
 }

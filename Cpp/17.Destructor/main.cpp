@@ -16,13 +16,13 @@ int main()
     //cout << FPT.getYear() <<endl;
 
     cout << test();
-    cout <<"\nreturn main";
+    cout <<"\nreturn main\n";
     return 0;
 }
-
+CongTy FPT("FPT", 2025);
 int test()
 {
-    CongTy FPT("FPT", 2025);
+
     cout << FPT.getName() <<endl;
     cout << FPT.getYear() <<endl;
 

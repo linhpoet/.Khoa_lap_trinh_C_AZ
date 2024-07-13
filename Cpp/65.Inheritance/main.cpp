@@ -1,7 +1,7 @@
 #include <iostream>
-#include "ChaMe.h"
-#include "ConCai.h"
-#include "ChauChat.h"
+#include "include/ChaMe.h"
+#include "include/ConCai.h"
+#include "include/ChauChat.h"
 
 using namespace std;
 

@@ -1,58 +1,63 @@
 #include <iostream>
-
+#include <vector>
+#include <string>
 using namespace std;
-
 class Node
 {
-public:
-    int value;
+private:
+    int key;
+    bool value;
     Node* next;
-    Node(int value)
-    {
-        this->value = value;
-        next = nullptr;
-    }
 };
 
-class LinkedList
+class HashTable
 {
 private:
-    Node* head;
-    Node* tail;
-    int length;
+    static const int SIZE = 7;
+    int dataMap[SIZE] = {};
+
 public:
-    LinkedList(int value)
+    HashTable()
     {
-        Node* newNode = new Node(value);
-        head = newNode;
-        tail = newNode;
-        length = 1;
-    }
-    Node* getHead()
-    {
-        return head;
+        for(int i=0; i<SIZE; i++) dataMap[i] = 0;
     }
 
-    Node* getTail()
+    ~HashTable()
     {
-        return tail;
-    }
-    int getLength()
-    {
-        return length;
-    }
-    void deleteTail()
-    {
-        delete tail;
 
     }
 
+    int hash(string key)
+    {
+        int hashvalue = 0;
+        for(int i=0; i<key.length(); i++)
+        {
+            int ascciKeyValue = int(key[i]);
+            hashvalue = (hashvalue + ascciKeyValue*23) % SIZE;
+        }
+        return hashvalue;
+    }
+
+    void insert(string key, int value)
+    {
+        int index = hash(key);
+        dataMap[index] = value;
+    }
+
+    int get(string key)
+    {
+        int index = hash(key);
+        return dataMap[index];
+
+    }
 };
 
-int main() {
-
-    LinkedList test(5);
-    cout << test.getHead()->value;
-    test.deleteTail();
-    cout << test.getHead()->value;
+int main()
+{
+    HashTable myht;
+    cout << myht.get("muoi") << endl;
+    myht.insert("muoi", 10);
+    cout << myht.get("muoi") << endl;
+    cout <<"hello world\n";
+    return 0;
 }
