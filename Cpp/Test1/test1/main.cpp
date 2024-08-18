@@ -2,30 +2,22 @@
 
 using namespace std;
 
-void swapp(int *a, int *b);
-
-struct abc
-{
-    void say()
-    {
-        cout << "hello";
-    }
-};
-#include <iostream>
-using namespace std;
-
+int curRow = 0;
+int curCol = 0;
+void Go(int curRow, int curCol, int step);
 int main()
 {
-    int a = 5;
-    int &r = a;
-    cout << a << r;
-    r = 10;
-    cout << a << r;
+    Go(0, 0, 66);
+    return 0;
 }
 
-void swapp(int *a, int* b)
+void Go(int curRow, int curCol, int step)
 {
-    int temp = *a;
-    *a = *b;
-    *b =temp;
+    if(curRow > 5 || curCol > 5) return;
+    int newstep = (curCol*6 + curRow + step) % 36;;  // newCol*6 + newRow
+    int newCol = newstep / 6;
+    int newRow = newstep - 6*newCol;
+
+    cout << newRow+1 << "\t" << newCol+1;
+
 }
